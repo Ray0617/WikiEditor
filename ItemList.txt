@@ -248,12 +248,12 @@ Dolphin
 Dolphin Sushi
 Donator Boots
 Donator Boots +1
-Donator Boots+2
-Donator Boots+3
-Donator Boots+4
-Donator Boots+5
-Donator Boots+6
-Donator Boots+7
+Donator Boots +2
+Donator Boots +3
+Donator Boots +4
+Donator Boots +5
+Donator Boots +6
+Donator Boots +7
 Donator Cape
 Donator Cape +1
 Donator Cape +2
@@ -262,17 +262,17 @@ Donator Helmet +1
 Donator Helmet +2
 Donator Helmet +3
 Donator Keyblade
-Donator Keyblade+1
-Donator Keyblade+10
-Donator Keyblade+11
-Donator Keyblade+2
-Donator Keyblade+3
-Donator Keyblade+4
-Donator Keyblade+5
-Donator Keyblade+6
-Donator Keyblade+7
-Donator Keyblade+8
-Donator Keyblade+9
+Donator Keyblade +1
+Donator Keyblade +10
+Donator Keyblade +11
+Donator Keyblade +2
+Donator Keyblade +3
+Donator Keyblade +4
+Donator Keyblade +5
+Donator Keyblade +6
+Donator Keyblade +7
+Donator Keyblade +8
+Donator Keyblade +9
 Donator Robe
 Donator Robe +1
 Donator Robe +2
